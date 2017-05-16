@@ -1,0 +1,1 @@
+This is Basic configuration of Laravel Broadcast Notification with Redis , Socket.io and Laravel Echo
