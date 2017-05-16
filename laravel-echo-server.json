@@ -1,0 +1,28 @@
+{
+	"authHost": "http://broadcasting.dev",
+	"authEndpoint": "/broadcasting/auth",
+	"clients": [
+		{
+			"appId": "a3ad506938417136",
+			"key": "33e4cc813c1a4b52a3dc273daa543db7"
+		},
+		{
+			"appId": "8Q8vUsx1nALelAh56UWSnfbzh0QEcWL99TTq5gjzGkk",
+			"key": "41dc88e872be9aabd5967c1687ffbe2e"
+		}
+	],
+	"database": "redis",
+	"databaseConfig": {
+		"redis": {},
+		"sqlite": {
+			"databasePath": "/database/laravel-echo-server.sqlite"
+		}
+	},
+	"devMode": true,
+	"host": null,
+	"port": "6001",
+	"protocol": "http",
+	"socketio": {},
+	"sslCertPath": "",
+	"sslKeyPath": ""
+}
